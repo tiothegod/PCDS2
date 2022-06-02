@@ -139,26 +139,6 @@
           <dmn:text>"Dosing"</dmn:text>
         </dmn:outputEntry>
       </dmn:rule>
-      <dmn:rule id="_6D92C7F5-0AF3-45B3-BECB-1BEF1461FDFB">
-        <dmn:inputEntry id="_6E791930-BB79-4A20-990E-146A94D1B493">
-          <dmn:text>"TRUE"</dmn:text>
-        </dmn:inputEntry>
-        <dmn:inputEntry id="_CBCD74C5-88B6-4536-83AE-F610C1BA0220">
-          <dmn:text>"F33.*"</dmn:text>
-        </dmn:inputEntry>
-        <dmn:inputEntry id="_A7874452-B154-432E-B73E-308BA8719837">
-          <dmn:text>"TRUE"</dmn:text>
-        </dmn:inputEntry>
-        <dmn:inputEntry id="_CC4FDF32-170D-4245-BD67-C8ECDB6051DC">
-          <dmn:text>"TRUE"</dmn:text>
-        </dmn:inputEntry>
-        <dmn:inputEntry id="_8955352F-3F19-481F-B3F9-E05CF06DB64E">
-          <dmn:text>"TRUE"</dmn:text>
-        </dmn:inputEntry>
-        <dmn:outputEntry id="_BB3F4AD4-9502-4FA5-BA9F-C3A3896190F3">
-          <dmn:text>"Require"</dmn:text>
-        </dmn:outputEntry>
-      </dmn:rule>
       <dmn:rule id="_67AA8C59-657C-49C5-976A-F5217CA84862">
         <dmn:inputEntry id="_5DB86B7E-AAF9-4585-B228-302FA5232D38">
           <dmn:text>"FALSE"</dmn:text>
