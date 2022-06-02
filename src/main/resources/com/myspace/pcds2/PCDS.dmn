@@ -144,7 +144,7 @@
           <dmn:text>"TRUE"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_CBCD74C5-88B6-4536-83AE-F610C1BA0220">
-          <dmn:text>"TRUE"</dmn:text>
+          <dmn:text>"F33.*"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_A7874452-B154-432E-B73E-308BA8719837">
           <dmn:text>"TRUE"</dmn:text>
