@@ -85,10 +85,10 @@
           <dmn:text>"F90"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_62D4B2A9-69A6-4192-9E8A-672A3E6D7BE5">
-          <dmn:text>"F32, F33, F10, F11, F12, F13, F14, F15, F16, F18, F19, F31, F40, F41"</dmn:text>
+          <dmn:text>"F10, F11, F12, F13, F14, F15, F16, F18, F19, F31, F32, F33, F40, F41"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_F0E27016-B04C-4A6A-A341-31B8251298D2">
-          <dmn:text>"AZ, CA, CO, DE, DC, IL, HI, FL, IA, KS, KY, MD, MA, MI, NE, NV, NM, NY, NC, OR, SD, VT, VA, WA, WI"</dmn:text>
+          <dmn:text>"AZ, CA, CO, DC, DE, FL, HI, IA, IL, KS, KY, MA, MD, MI, NC, NE, NM, NV, NY, OR, SD, VA, VT, WA, WI"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_091FCB4F-7E46-4DD2-B710-C0AC49443B14">
           <dmn:text>"TRUE"</dmn:text>
